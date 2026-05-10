@@ -113,18 +113,23 @@ gst-invoice-app/
 ├── README.md
 ```
 
-Installation Guide:
-1. Clone the repository:
+# ⚙️ Installation Guide
+## 1. Clone the Repository
 ```bash
 git clone https://github.com/mohith12040/gst-invoice-app.git
 ```
-2. Move to the project folder
+## 2. Move to the Project Folder
 ```bash
 cd gst-invoice-app
 ```
-3. Simply open index.html or use VS Code Live Server Extension.
 
-# 🌐 Access Online
+## 3. Run the Application
+Simply open:
+index.html
+in your browser.
+OR use the VS Code Live Server Extension for a better development experience.
+
+🌐 Access Online
 
 You can also use the application directly through the deployed GitHub Pages website without installing anything locally.
 
